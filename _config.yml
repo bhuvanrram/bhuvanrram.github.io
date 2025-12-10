@@ -1,3 +1,20 @@
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 title: Bhuvan R
 description: QA Engineer | Tech Explorer | Building things from zero to one
-theme: minima
+
+author:
+  name: "Bhuvan R"
+  bio: "QA, automation, full-stack experiments, and business journeys."
+  location: "India"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/bhuvanrram"
+
+
