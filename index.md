@@ -3,8 +3,6 @@ layout: home
 title: "Hi, I'm Bhuvan"
 ---
 
-# Bhuvan R
-
 QA Engineer • Aspiring Entrepreneur • Tech Tinkerer
 
 Welcome to my space on the internet.  
