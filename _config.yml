@@ -4,9 +4,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache
 
 title: Bhuvan R
-description: QA Engineer | Tech Explorer | Building things from zero to one
+description: QA Engineer | Tech Explorer | Building zero to one
 
 author:
   name: "Bhuvan R"
